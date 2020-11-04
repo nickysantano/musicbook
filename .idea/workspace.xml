@@ -132,7 +132,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../guestbook" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/views/user" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -143,13 +143,14 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\xampp\htdocs\musicbook\public" />
-      <recent name="C:\xampp\htdocs\musicbook\resources\views" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\xampp\htdocs\musicbook\public" />
       <recent name="C:\xampp\htdocs\musicbook\resources\views\music" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\musicbook\resources\views\user" />
+      <recent name="C:\xampp\htdocs\musicbook\public" />
+      <recent name="C:\xampp\htdocs\musicbook\resources\views" />
     </key>
   </component>
   <component name="RunManager">
@@ -172,6 +173,7 @@
       <workItem from="1603871024430" duration="5207000" />
       <workItem from="1604019023042" duration="615000" />
       <workItem from="1604140181988" duration="602000" />
+      <workItem from="1604487098330" duration="7176000" />
     </task>
     <servers />
   </component>

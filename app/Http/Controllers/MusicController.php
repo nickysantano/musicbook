@@ -63,7 +63,8 @@ class MusicController extends Controller
      */
     public function edit(Music $music)
     {
-        return view('music.editMusic', compact('music'));
+        $users = User::all();
+        return view('music.editMusic', compact('music', 'users'));
     }
 
     /**

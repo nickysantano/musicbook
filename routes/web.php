@@ -28,6 +28,8 @@ Route::get('/', function (){
 Route::resource('music', MusicController::class);
 Route::resource('user', UserController::class);
 
+Route::view('/contact', 'contact');
+
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
 
 Auth::routes();

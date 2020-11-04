@@ -1,9 +1,9 @@
-{{--@extends('layout.main')--}}
-@extends('layouts.app')
+@extends('layout.main')
+{{--@extends('layouts.app')--}}
 
 @section('judul', 'MUSIC')
 @section('content')
-
+{{--    {{ dd($users) }}--}}
     <div class="container">
         <div class="title">
             <h1>Edit Music</h1>
@@ -26,7 +26,7 @@
 
                 <select name="created_by" class="custom-select">
                     @foreach($users as $user)
-                    <option value="#"></option>
+                    <option value="{{ $user->id }}">{{ $user->name }}</option>
                     @endforeach
                 </select>
 

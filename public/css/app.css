@@ -1886,6 +1886,10 @@ pre code {
   background-color: #b3e8ca;
 }
 
+.contact-clean{
+    padding: 20%;
+}
+
 .table-hover .table-success:hover > td,
 .table-hover .table-success:hover > th {
   background-color: #b3e8ca;
