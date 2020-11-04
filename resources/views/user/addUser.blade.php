@@ -1,5 +1,5 @@
-@extends('layout.main')
-{{--@extends('layouts.app')--}}
+{{--@extends('layout.main')--}}
+@extends('layouts.app')
 
 @section('judul', 'MUSIC')
 @section('content')

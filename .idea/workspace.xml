@@ -132,7 +132,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/views/user" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -148,8 +148,8 @@
       <recent name="C:\xampp\htdocs\musicbook\resources\views\music" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\xampp\htdocs\musicbook\resources\views\user" />
       <recent name="C:\xampp\htdocs\musicbook\public" />
+      <recent name="C:\xampp\htdocs\musicbook\resources\views\user" />
       <recent name="C:\xampp\htdocs\musicbook\resources\views" />
     </key>
   </component>
@@ -173,7 +173,8 @@
       <workItem from="1603871024430" duration="5207000" />
       <workItem from="1604019023042" duration="615000" />
       <workItem from="1604140181988" duration="602000" />
-      <workItem from="1604487098330" duration="7176000" />
+      <workItem from="1604487098330" duration="10606000" />
+      <workItem from="1604508465426" duration="17000" />
     </task>
     <servers />
   </component>
@@ -189,9 +190,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1604019035848" />
-    <state x="667" y="253" width="585" height="534" key="find.popup" timestamp="1603894060711">
+    <state x="667" y="253" width="585" height="534" key="find.popup" timestamp="1604508314446">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="667" y="253" width="585" height="534" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1603894060711" />
+    <state x="667" y="253" width="585" height="534" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1604508314446" />
   </component>
 </project>

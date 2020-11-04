@@ -1,7 +1,7 @@
-@extends('layout.main')
-{{--@extends('layouts.app')--}}
+{{--@extends('layout.main')--}}
+@extends('layouts.app')
 
-@section('judul', 'MUSIC')
+@section('judul', 'USER')
 @section('content')
 
     <div class="container">

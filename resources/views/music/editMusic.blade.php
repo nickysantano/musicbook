@@ -1,9 +1,9 @@
-@extends('layout.main')
-{{--@extends('layouts.app')--}}
+{{--@extends('layout.main')--}}
+@extends('layouts.app')
 
 @section('judul', 'MUSIC')
 @section('content')
-{{--    {{ dd($users) }}--}}
+
     <div class="container">
         <div class="title">
             <h1>Edit Music</h1>

@@ -97,7 +97,7 @@ img {
 }
 
 .btn:not(:disabled):not(.disabled) {
-  color: #ffffff;
+  color: #ff4b4b;
 }
 
 #btn btn_secondary {
@@ -119,16 +119,17 @@ img {
 
 .table {
   margin-top: 2%;
-  padding-left: 0%;
-  padding-right: 0%;
+  padding-left: 5%;
+  padding-right: 5%;
   margin-bottom: 2%;
-    text-align: center;
 }
 
 .table-responsive {
 }
 
 #contents {
+  padding-left: 5%;
+  padding-right: 5%;
 }
 
 .table-headings {
@@ -137,5 +138,6 @@ img {
 }
 
 #table-body {
+  text-align: center;
 }
 

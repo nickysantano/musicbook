@@ -17,11 +17,22 @@
     <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
 
     <!-- Styles -->
-    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Aldrich">
-    <link rel="stylesheet" href="assets/fonts/ionicons.min.css">
-    <link rel="stylesheet" href="assets/css/Footer-Dark.css">
-    <link rel="stylesheet" href="assets/css/styles.css">
+    <link rel="stylesheet" href="{{ asset('assets/bootstrap/css/bootstrap.min.css') }}">
+    <link rel="stylesheet" href="{{ asset('https://fonts.googleapis.com/css?family=Aldrich') }}">
+    <link rel="stylesheet" href="{{ asset('assets/fonts/ionicons.min.css') }}">
+    <link rel="stylesheet" href="{{ asset('assets/css/Footer-Dark.css') }}">
+    <link rel="stylesheet" href="{{ asset('assets/css/styles.css') }}">
+    <style>.btnSubmit{
+                background-color: #7583e2;
+                padding: 10px;
+                border-radius: 12px;
+                border: none;
+                color: white;
+                margin-left: 90%;
+            }
+            .footer-dark{
+                margin-top: 50px;
+            }</style>
 </head>
 <body>
 <div id="app">
@@ -86,7 +97,7 @@
 
     <main class="py-4">
         <div>
-            <div id="heading"><img id="heading_icon" src="assets/img/icon.png">
+            <div id="heading"><img id="heading_icon" src="{{ asset('assets/img/icon.png') }}">
                 <p id="heading_description" style="font-size: 24px;font-family: Aldrich, sans-serif;">Your Daily Music Needs</p>
             </div>
         </div>
