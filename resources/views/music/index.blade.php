@@ -33,7 +33,7 @@
                     </thead>
 
                     <tbody>
-                    <tr id="table-body">
+                    <tr class="table-body">
                         @foreach($musics as $music)
                             <td><a @auth() href="{{ route('music.edit', $music) }}@endauth">{{ $music->title }}</a></td>
                             <td>{{ $music->description }}</td>

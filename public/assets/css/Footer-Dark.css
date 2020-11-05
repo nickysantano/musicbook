@@ -97,7 +97,7 @@ img {
 }
 
 .btn:not(:disabled):not(.disabled) {
-  color: #ff4b4b;
+  color: #ffffff;
 }
 
 #btn btn_secondary {
